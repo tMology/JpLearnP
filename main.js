@@ -1,3 +1,5 @@
+"Author Mitchell Habovick"
+
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = '!';
@@ -42,4 +44,4 @@ client.on('message', message =>{
 
 
 
-client.login('');
+client.login(''); "This is where the bot key would be placed. A key will need to be aquired in order for the bot to function."
