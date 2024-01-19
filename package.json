@@ -1,0 +1,25 @@
+{
+  "name": "jplearn",
+  "version": "1.0.0",
+  "description": "A bot that generates prhases in japanese when specified.",
+  "engines": {
+    "node": "14.15.5",
+    "npm": "*"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [
+    "Language"
+  ],
+  "author": "M H",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.2.10",
+    "type": "module"
+  }
+}
