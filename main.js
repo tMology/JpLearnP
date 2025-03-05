@@ -60,7 +60,7 @@ client.on('message', async message => {
             'たけしさんは来るかもしれません | This means: Mr. Takeshi might come.',
             'みたい | This grammarpoint means to look like. An exapmle would be: その像は犬みたいです。This sentence translates to: That statue looks like a dog. みたい emphasizes this. A good reference to learn about this is here: https://www.japaneseforbeginners.info/2017/05/mitai-2.html',
             'だけ | This grammar point is used to state only/as much as. Ex. 私はスーパーで魚だけ買った。I only bought fish at the supermarket. This site has a good reference on how to use this grammar point: https://www.tofugu.com/japanese-grammar/dake/',
-            'でも | This grammar point is used in a few ways. It can mean however or but. A few examples include  日本にいたことがあるでも、おきなわにいたことがありません。I have been to Japan, but I have never been to Okinawa.',
+            'でも | This grammar point is used in a few ways. It can mean however or but. A few examples include  日本にいったことがあるでも、おきなわにいったことがありません。I have been to Japan, but I have never been to Okinawa.',
             'があります | This grammar point is used to say things exist, (specifically non living things) for living things there is a different grammar pont. Ex. そのレストランは寿司があります。 That resturant has sushi. A good site to reference https://jlptsensei.com/learn-japanese-grammar/%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99-ga-arimasu-%E3%81%8C%E3%81%82%E3%82%8B-ga-aru-meaning/',
             'です | One of the core essentials, です is used to say this is and is used in a lot of sentences Ex. これはほんです。This is a book.',
             'でしょう | This grammar point is usually say right? posed as a question. It can also mean I think, and probably. これは何でしょうか？ What is that? ',
